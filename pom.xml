@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.martinrea</groupId>
-  <artifactId>Demo_Business_Units_v2</artifactId>
+  <artifactId>Demo_BusinessUnit-Child1</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>Demo_Business_Units_v2</name>
+  <name>Demo_BusinessUnit-Child1</name>
   <description></description>
   <dependencies>
     <dependency>
